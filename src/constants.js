@@ -26,7 +26,7 @@ import vscodeLogo from './assets/tech_logo/vscode.png';
 import postmanLogo from './assets/tech_logo/postman.png';
 import mcLogo from './assets/tech_logo/mc.png';
 import book_store from './assets/work_logo/book_store.png';
-import ai_Poowered from './assets/work_logo/ai_powered.png';
+import ai_Poowered from './assets/work_logo/ai_Powered.png';
 import recipe from './assets/work_logo/recipe.png';
 import ProblemPlexLogo from './assets/work_logo/ProblemPlexLogo.png';
 import audio from './assets/work_logo/audio.png';
