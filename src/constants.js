@@ -40,6 +40,7 @@ import k8s from './assets/tech_logo/k8s.jpg';
 import aws from './assets/tech_logo/aws.png';
 import langchain from './assets/tech_logo/langchain.png';
 import ollama from './assets/tech_logo/ollama.png';
+import aws from './assets/tech_logo/AWS.png';
 // Experience Section Logo's
 import nts from './assets/company_logo/nts.jpeg';
 // Education Section Logo's
@@ -103,7 +104,7 @@ export const SkillsInfo = [
       { name: 'Vercel', logo: vercelLogo },
       { name: 'Docker', logo: Docker },
       { name: 'Kebernetes', logo: k8s },
-      { name: 'AWS', logo: aws },
+      { name: 'AWS', logo: aws},
       { name: 'ollama', logo: ollama },
 
     ],
