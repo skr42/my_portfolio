@@ -37,7 +37,6 @@ import vercelLogo from './assets/tech_logo/vercel.png';
 import postgreLogo from './assets/tech_logo/postgre.png';
 import Docker from './assets/tech_logo/Docker.png';
 import k8s from './assets/tech_logo/k8s.jpg';
-import aws from './assets/tech_logo/aws.png';
 import langchain from './assets/tech_logo/langchain.png';
 import ollama from './assets/tech_logo/ollama.png';
 import aws from './assets/tech_logo/AWS.png';
